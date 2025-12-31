@@ -1,3 +1,5 @@
 # 30-days-of-code-tcp-2026
 This is my first project on github
-Developer md shahbaj ansari
+Name- Md Shahbaj Ansari
+Branch - Electrical 
+Roll no.- 25117062
